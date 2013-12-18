@@ -1,0 +1,876 @@
+#=============================================================================
+#
+#        Copyright (C) 2002-2003, Matti Tukiainen, http://ktmatu.com/mt/
+#
+# Name          : Practical Chinese Reader II Vocabulary List, Lessons 31-50
+# Version       : 1.05
+# Purpose       : Vocabulary list from Practical Chinese Reader book II in
+#                   CEDICT format.
+#
+# Platforms     : All.
+# Date          : 2003-06-10
+# Updates       : 1.00 Initial release. (2002-01-17)
+#                 1.01 Fixed Shou3 du1 Guo2 ji4 Ji1 chang3. (2002-04-04)
+#                 1.02 Fixed Li4 li4. (2002-04-15)
+#                 1.03 Fixed yi2 huir4, xi3 zhao4 pian4, (2002-06-13)
+#                        zhong1 jian1, lei4, mu3 qin5, fu3,
+#                        tai4 yang5, zhong4, yin1 wei5,
+#                        bu2 dan4 ... er2 qie3 by Ulf Wolfgramm, <wol [at]
+#                        snafu [dot] de>.
+#                 1.04 Fixed Chinese character for qing2. (2002-09-21)
+#                        Found by Glen W. Mabey, <Glen.Mabey [at]
+#                        usu [dot] edu>
+#                 1.05 Fixed Chinese characters for (2003-06-10)
+#                        jiang3 zhuang4, gan1 jing5, and tie1. Found by
+#                        Ulf Wolfgramm, <wol [at] snafu [dot] de>.
+#
+# Author        : Matti Tukiainen, http://ktmatu.com/mt/
+#
+# References    : -
+#
+# Notes         : Please report all errors to me!
+#                 This file in various human-readable formats as well as
+#                   other Chinese related things are available at
+#                   http://ktmatu.com/chinese/
+#
+# Copying       : This file may be used under the terms of GNU General
+#                   Public License, http://www.gnu.org/copyleft/gpl.html .
+#
+#=============================================================================
+#
+#<title>Practical Chinese Reader II Vocabulary List, Lessons 31 - 50</title>
+#<div class="new-word" id="31" title="Lesson 31 New Words">
+老	t
+华侨	t
+话	t
+长	t
+时间	t
+已经	t
+第	t
+次	t
+学校	t
+大学	t
+实现	t
+现代化	t
+希望	t
+社会主义	t
+建设	t
+钟	t
+首都	t
+国际	t
+语言	t
+同志	t
+路	t
+辛苦	t
+小时	t
+天气	t
+手续	t
+#</div>
+#<div class="proper-name" id="31.p" title="Lesson 31 Proper Names">
+美国	t
+上海	t
+首都国际机场	t
+北京语言学院	t
+张华光	t
+赵	t
+#</div>
+#<div class="supplementary-word" id="31.s" title="Lesson 31 Supplementary Words">
+录音	t
+# CEDICT: 一会儿	t
+一会儿	t
+开会	t
+护照	t
+拉	t
+小提琴	t
+不用	t
+#</div>
+#<div class="new-word" id="32" title="Lesson 32 New Words">
+最近	t
+透视	t
+过	t
+医务所	t
+看病	t
+病	t
+检查	t
+地方	t
+遍	t
+拿	t
+表	t
+先	t
+内科	t
+以前	t
+得病	t
+肺炎	t
+肺	t
+心脏	t
+量	t
+血压	t
+血	t
+正常	t
+眼睛	t
+鼻子	t
+耳朵	t
+这样	t
+生命	t
+知识	t
+#</div>
+#<div class="proper-name" id="32.p" title="Lesson 32 Proper Names">
+长城	t
+北海	t
+大闹天宫	t
+#</div>
+#<div class="supplementary-word" id="32.s" title="Lesson 32 Supplementary Words">
+肝	t
+填	t
+胃	t
+个子	t
+头发	t
+嘴	t
+#</div>
+#<div class="new-word" id="33" title="Lesson 33 New Words">
+下雨	t
+雨	t
+敲	t
+公园	t
+红叶	t
+树	t
+叶子	t
+热	t
+觉得	t
+最	t
+晴	t
+冷	t
+刮风	t
+风	t
+雪	t
+梅花	t
+怕	t
+开花儿	t
+古	t
+诗	t
+首	t
+隆冬	t
+百	t
+迹	t
+绝	t
+屈服	t
+立	t
+#</div>
+#<div class="proper-name" id="33.p" title="Lesson 33 Proper Names">
+颐和园	t
+香山	t
+陈毅	t
+#</div>
+#<div class="supplementary-word" id="33.s" title="Lesson 33 Supplementary Words">
+雾	t
+凉快	t
+春天	t
+预报	t
+阴天	t
+度	t
+习惯	t
+暖和	t
+#</div>
+#<div class="new-word" id="34" title="Lesson 34 New Words">
+图片	t
+着	t
+信封	t
+封	t
+寄	t
+邮局	t
+有的	t
+窗口	t
+挂	t
+牌子	t
+邮票	t
+挂号	t
+柜台	t
+放	t
+明信片	t
+营业员	t
+营业	t
+地	t
+航空	t
+本	t
+市	t
+大声	t
+为什么	t
+姓名	t
+下边	t
+收	t
+指	t
+墙	t
+#</div>
+#<div class="proper-name" id="34.p" title="Lesson 34 Proper Names">
+南京	t
+天安门	t
+#</div>
+#<div class="supplementary-word" id="34.s" title="Lesson 34 Supplementary Words">
+灯	t
+收音机	t
+信箱	t
+平信	t
+收据	t
+包裹	t
+单	t
+电报	t
+#</div>
+#<div class="new-word" id="35" title="Lesson 35 New Words">
+考试	t
+考	t
+成绩	t
+学期	t
+专业	t
+机会	t
+放假	t
+暑假	t
+寒假	t
+假期	t
+奇怪	t
+情况	t
+利用	t
+挣	t
+钱	t
+开学	t
+着急	t
+表	t
+#</div>
+#<div class="new-word" id="36" title="Lesson 36 New Words">
+套	t
+茶具	t
+便宜	t
+自行车	t
+瓷器	t
+售货员	t
+货	t
+生产	t
+历史	t
+质量	t
+玉	t
+# CEDICT 薄	t
+薄	t
+# CEDICT: 种	t
+种	t
+茶碗	t
+碗	t
+一共	t
+块	t
+毛	t
+分	t
+茶壶	t
+壶	t
+只	t
+解放	t
+发展	t
+提高	t
+画儿	t
+画	t
+零	t
+找钱	t
+#</div>
+#<div class="proper-name" id="36.p" title="Lesson 36 Proper Names">
+百货大楼	t
+江西	t
+景德镇	t
+唐山	t
+齐白石	t
+#</div>
+#<div class="supplementary-word" id="36.s" title="Lesson 36 Supplementary Words">
+贵	t
+厚	t
+订	t
+零钱	t
+价钱	t
+画蛇添足	t
+别人	t
+脚	t
+#</div>
+#<div class="new-word" id="37" title="Lesson 37 New Words">
+一样	t
+布	t
+中山装	t
+短	t
+公分	t
+长短	t
+合适	t
+肥	t
+瘦	t
+衣服	t
+颜色	t
+蓝	t
+灰	t
+交	t
+中式	t
+棉袄	t
+面儿	t
+绸子	t
+上次	t
+要不	t
+# CEDICT: 定做
+定作	t
+下星期	t
+米	t
+高	t
+花	t
+辆	t
+骑	t
+#</div>
+#<div class="supplementary-word" id="37.s" title="Lesson 37 Supplementary Words">
+毛衣	t
+雨衣	t
+西装	t
+料子	t
+袜子	t
+旗袍	t
+胖	t
+布鞋	t
+#</div>
+#<div class="new-word" id="38" title="Lesson 38 New Words">
+错	t
+公共汽车	t
+公共	t
+汽车	t
+站	t
+售票员	t
+往	t
+往	t
+刚	t
+换	t
+下	t
+座位	t
+大爷	t
+大娘	t
+终点	t
+南边	t
+电车	t
+修	t
+马路	t
+马	t
+拐弯	t
+跑	t
+排队	t
+# CEDICT: 怎麽
+怎么	t
+带	t
+咱们	t
+方向	t
+东边	t
+讲	t
+故事	t
+#</div>
+#<div class="proper-name" id="38.p" title="Lesson 38 Proper Names">
+平安里	t
+钢铁学院	t
+三里屯	t
+三里河	t
+#</div>
+#<div class="supplementary-word" id="38.s" title="Lesson 38 Supplementary Words">
+胡同	t
+红绿灯	t
+街	t
+地铁	t
+西边	t
+路口	t
+北边	t
+出租汽车	t
+南辕北辙	t
+#</div>
+#<div class="new-word" id="39" title="Lesson 39 New Words">
+对	t
+关心	t
+车间	t
+选举	t
+主任	t
+老骥伏枥,志在千里	t
+句	t
+意思	t
+虽然	t
+但是	t
+本子	t
+春天	t
+退休	t
+街道	t
+阿姨	t
+邻居	t
+远方	t
+客人	t
+留	t
+叔叔	t
+# CEDICT:	t
+聪明	t
+完	t
+不好意思	t
+愉快	t
+永远	t
+记	t
+#</div>
+#<div class="proper-name" id="39.p" title="Lesson 39 Proper Names">
+小兰	t
+#</div>
+#<div class="supplementary-word" id="39.s" title="Lesson 39 Supplementary Words">
+衣柜	t
+书架	t
+师傅	t
+坏	t
+手	t
+条子	t
+关	t
+#</div>
+#<div class="new-word" id="40" title="Lesson 40 New Words">
+运动会	t
+运动	t
+运动员	t
+操场	t
+广播	t
+主席台	t
+主席	t
+彩旗	t
+旗子	t
+比赛	t
+观众	t
+激动	t
+打拳	t
+太极拳	t
+热烈	t
+鼓掌	t
+男子	t
+保持	t
+记录	t
+名	t
+秒	t
+打破	t
+极了	t
+#</div>
+#<div class="new-word" id="41" title="Lesson 41 New Words">
+向导	t
+门口	t
+对不起	t
+没关系	t
+# CEDICT: 一会儿	t
+一会儿	t
+亭子	t
+山	t
+才	t
+挤	t
+洗	t
+司机	t
+周到	t
+西边	t
+皇帝	t
+建筑	t
+清楚	t
+要是	t
+广场	t
+美	t
+照相机	t
+过	t
+脚	t
+吊	t
+死	t
+听说	t
+小说	t
+出	t
+#</div>
+#<div class="proper-name" id="41.p" title="Lesson 41 Proper Names">
+景山公园	t
+景山	t
+张华明	t
+故宫	t
+天安门广场	t
+崇祯	t
+李自成	t
+#</div>
+#<div class="supplementary-word" id="41.s" title="Lesson 41 Supplementary Words">
+售票处	t
+讲解员	t
+丢	t
+广播室	t
+摩托车	t
+旅馆	t
+广播员	t
+#</div>
+#<div class="new-word" id="42" title="Lesson 42 New Words">
+洗照片	t
+石头	t
+狮子	t
+华表	t
+爷爷	t
+冰棍儿	t
+典型	t
+万	t
+# CEDICT: 中间	t
+中间	t
+艺术	t
+修建	t
+礼堂	t
+宽	t
+千	t
+# CEDICT: 这麽	t
+这么	t
+完成	t
+岁数	t
+干	t
+了	t
+重	t
+# CEDICT:	t
+活儿	t
+动	t
+工地	t
+顾问	t
+奖状	t
+镜头	t
+# CEDICT:	t
+盖儿	t
+#</div>
+#<div class="proper-name" id="42.p" title="Lesson 42 Proper Names">
+小红	t
+小冬	t
+人民英雄纪念碑	t
+毛主席	t
+人民大会堂	t
+中国历史博物馆	t
+#</div>
+#<div class="supplementary-word" id="42.s" title="Lesson 42 Supplementary Words">
+扳	t
+尺	t
+平方米	t
+公斤	t
+方便	t
+海	t
+可笑	t
+#</div>
+#<div class="new-word" id="43" title="Lesson 43 New Words">
+累	t
+饿	t
+# CEDICT: yi1 dianr3
+有一点儿	t
+饭馆	t
+穿马路	t
+风味	t
+小吃店	t
+小吃	t
+店	t
+顾客	t
+之	t
+亲切	t
+各	t
+元宵	t
+豌豆粥	t
+粥	t
+师傅	t
+炸糕	t
+油饼	t
+比较	t
+勾	t
+杏仁豆腐	t
+杏仁	t
+豆腐	t
+牛奶	t
+糖	t
+别的	t
+好吃	t
+服务	t
+提	t
+意见	t
+#</div>
+#<div class="proper-name" id="43.p" title="Lesson 43 Proper Names">
+豌豆赵	t
+#</div>
+#<div class="supplementary-word" id="43.s" title="Lesson 43 Supplementary Words">
+渴	t
+菜单	t
+绿灯	t
+亮	t
+当心	t
+存车处	t
+推	t
+#</div>
+#<div class="new-word" id="44" title="Lesson 44 New Words">
+贸易	t
+决定	t
+喊	t
+跳	t
+旅行	t
+只有	t
+园林	t
+它	t
+# CEDICT: 母亲	t
+母亲	t
+座	t
+湖	t
+边	t
+桥	t
+船	t
+风景	t
+# CEDICT: 多麽
+多么	t
+# CEDICT: 幅	t
+幅	t
+草	t
+人物	t
+爬	t
+镜子	t
+近	t
+天	t
+青	t
+塔	t
+# CEDICT: 太阳	t
+太阳	t
+#</div>
+#<div class="proper-name" id="44.p" title="Lesson 44 Proper Names">
+达尼亚	t
+广州	t
+万寿山	t
+# ???
+昆明湖	t
+长廊	t
+三国演义	t
+#</div>
+#<div class="supplementary-word" id="44.s" title="Lesson 44 Supplementary Words">
+度假	t
+毕业	t
+探亲	t
+出差	t
+生	t
+对象	t
+生活	t
+#</div>
+#<div class="new-word" id="45" title="Lesson 45 New Words">
+熊猫	t
+珍贵	t
+动物	t
+# CEDICT: 後来
+后来	t
+只	t
+动物园	t
+熊猫馆	t
+样子	t
+外国	t
+象	t
+它们	t
+竹子	t
+可爱	t
+爱	t
+可笑	t
+腿	t
+头	t
+戴	t
+墨镜	t
+使者	t
+#</div>
+#<div class="proper-name" id="45.p" title="Lesson 45 Proper Names">
+北京动物园	t
+南亚	t
+亚洲	t
+非洲	t
+丽丽	t
+#</div>
+#<div class="new-word" id="46" title="Lesson 46 New Words">
+把	t
+药	t
+疼	t
+咳嗽	t
+舒服	t
+窗户	t
+关	t
+可能	t
+感冒	t
+发烧	t
+利害	t
+医院	t
+住院	t
+病房	t
+躺	t
+手	t
+立刻	t
+录音机	t
+录音	t
+打针	t
+针	t
+体温	t
+姥姥	t
+种	t
+小声	t
+包	t
+饺子	t
+#</div>
+#<div class="supplementary-word" id="46.s" title="Lesson 46 Supplementary Words">
+病人	t
+护士	t
+挂号证	t
+科	t
+大便	t
+解	t
+药方	t
+药剂士	t
+片	t
+#</div>
+#<div class="new-word" id="47" title="Lesson 47 New Words">
+感想	t
+留言簿	t
+留言	t
+故居	t
+讲解员	t
+讲解	t
+设计	t
+成	t
+院子	t
+篇	t
+文章	t
+枣树	t
+株	t
+北边	t
+间	t
+接	t
+老虎	t
+尾巴	t
+把	t
+简朴	t
+怀念	t
+培养	t
+青年	t
+作	t
+伟大	t
+文学家	t
+生活	t
+活	t
+遗产	t
+丰富	t
+#</div>
+#<div class="proper-name" id="47.p" title="Lesson 47 Proper Names">
+阜成门	t
+西三条	t
+彷徨	t
+野草	t
+藤野	t
+#</div>
+#<div class="supplementary-word" id="47.s" title="Lesson 47 Supplementary Words">
+办公室	t
+错误	t
+改	t
+出院	t
+恢复	t
+纪念	t
+牛马	t
+群众	t
+#</div>
+#<div class="new-word" id="48" title="Lesson 48 New Words">
+# CEDICT:	t
+灯笼	t
+灯	t
+亲爱	t
+# CEDICT: 因为	t
+因为	t
+全	t
+团聚	t
+节日	t
+节	t
+初	t
+拜年	t
+年	t
+屋子	t
+打扫	t
+扫	t
+# CEDICT:	t
+干净	t
+收拾	t
+整齐	t
+黑	t
+春联	t
+贴	t
+年画儿	t
+儿子	t
+礼物	t
+新年	t
+兔子	t
+恭贺新禧	t
+放爆竹	t
+爆竹	t
+摆	t
+麻烦	t
+#</div>
+#<div class="proper-name" id="48.p" title="Lesson 48 Proper Names">
+春节	t
+圣诞节	t
+黄	t
+阳阳	t
+#</div>
+#<div class="supplementary-word" id="48.s" title="Lesson 48 Supplementary Words">
+除夕	t
+年夜饭	t
+风俗	t
+灯节	t
+夏历	t
+元宵节	t
+袋	t
+粮食	t
+#</div>
+#<div class="new-word" id="49" title="Lesson 49 New Words">
+被	t
+话剧	t
+感动	t
+日记	t
+茶馆	t
+让	t
+借	t
+剧场	t
+作品	t
+之一	t
+演出	t
+演	t
+成功	t
+艺术家	t
+正确	t
+社会	t
+抓	t
+杀	t
+劳动	t
+逼	t
+卖	t
+掌柜	t
+叫	t
+坏	t
+黑暗	t
+吸引	t
+#</div>
+#<div class="proper-name" id="49.p" title="Lesson 49 Proper Names">
+首都剧场	t
+老舍	t
+骆驼祥子	t
+#</div>
+#<div class="supplementary-word" id="49.s" title="Lesson 49 Supplementary Words">
+开演	t
+节目	t
+说明书	t
+合唱	t
+独唱	t
+民乐	t
+舞蹈	t
+女高音	t
+演员	t
+#</div>
+#<div class="new-word" id="50" title="Lesson 50 New Words">
+画展	t
+兰花	t
+临摹	t
+笔	t
+打开	t
+页	t
+总理	t
+逝世	t
+枝	t
+挺立	t
+红莲	t
+周年	t
+迎春花	t
+最後	t
+世界	t
+海	t
+微笑	t
+#</div>
+#<div class="proper-name" id="50.p" title="Lesson 50 Proper Names">
+中国美术馆	t
+周恩来	t
+周总理	t
+#</div>
+

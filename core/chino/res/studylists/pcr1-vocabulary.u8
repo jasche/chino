@@ -1,0 +1,790 @@
+#=============================================================================
+#
+#       Copyright (C) 2001-2003, Matti Tukiainen, http://ktmatu.com/mt/
+#
+# Name          : Practical Chinese Reader I Vocabulary List, Lessons 1 - 30
+# Version       : 1.09
+# Purpose       : Vocabulary list from Practical Chinese Reader book I in
+#                   CEDICT format.
+#
+# Platforms     : All.
+# Date          : 2003-06-10
+# Updates       : 1.00 Initial release. (2001-08-25)
+#                 1.01 Fixex zhong1 jian4 to zhong1 jian1. (2001-09-25)
+#                 1.02 Added dui4 bu5 qi3. (2001-09-28)
+#                 1.03 Fixed ju2 zi5, added remarks to (2001-10-08)
+#                        can1 guan1 and fang3 wen4.
+#                 1.04 Fixed shi2 hou4 to shi2 hou5. (2001-10-10)
+#                 1.05 Fixed bu4 cuo4 to bu2 cuo4. (2001-11-11)
+#                 1.06 Fixed cha1 to cha4. (2002-01-23)
+#                 1.07 Changed the capitalization of proper (2002-02-10)
+#                        names and some other words to better correspond
+#                        the book.
+#                 1.08 Fixed "to resemble". (2002-03-10)
+#                 1.09 Fixed gan1 jing4. Found by (2003-06-10)
+#                        Ulf Wolfgramm, <wol [at] snafu [dot] de>.
+#
+# Author        : Matti Tukiainen, http://ktmatu.com/mt/
+#
+# References    : -
+#
+# Notes         : Please report all errors to me!
+#                 This file in various human-readable formats as well as
+#                   other Chinese related things are available at
+#                   http://ktmatu.com/chinese/
+#
+# Copying       : This file may be used under the terms of GNU General
+#                   Public License, http://www.gnu.org/copyleft/gpl.html .
+#
+#=============================================================================
+#
+#<title>Practical Chinese Reader I Vocabulary List, Lessons 1 - 30</title>
+#<div class="new-word" id="1" title="Lesson 1 New Words">
+你	t
+好	t
+#</div>
+#<div class="proper-name" id="1.p" title="Lesson 1 Proper Names">
+古波	t
+帕兰卡	t
+#</div>
+#<div class="new-word" id="2" title="Lesson 2 New Words">
+吗	t
+我	t
+很	t
+呢	t
+也	t
+#</div>
+#<div class="new-word" id="3" title="Lesson 3 New Words">
+忙	t
+不	t
+哥哥	t
+他	t
+弟弟	t
+他们	t
+都	t
+#</div>
+#<div class="new-word" id="4" title="Lesson 4 New Words">
+这	t
+是	t
+朋友	t
+爸爸	t
+妈妈	t
+你们	t
+#</div>
+#<div class="new-word" id="5" title="Lesson 5 New Words">
+大夫	t
+的	t
+车	t
+那	t
+她	t
+书	t
+#</div>
+#<div class="supplementary-word" id="5.s" title="Lesson 5 Supplementary Words">
+报	t
+纸	t
+尺	t
+笔	t
+#</div>
+#<div class="new-word" id="6" title="Lesson 6 New Words">
+哪	t
+国	t
+人	t
+谁	t
+我们	t
+老师	t
+#</div>
+#<div class="proper-name" id="6.p" title="Lesson 6 Proper Names">
+汉语	t
+#</div>
+#<div class="supplementary-word" id="6.s" title="Lesson 6 Supplementary Words">
+中国	t
+德国	t
+法国	t
+美国	t
+马里	t
+日本	t
+#</div>
+#<div class="new-word" id="7" title="Lesson 7 New Words">
+什么	t
+地图	t
+看	t
+请	t
+#</div>
+#<div class="proper-name" id="7.p" title="Lesson 7 Proper Names">
+北京	t
+上海	t
+长江	t
+黄河	t
+长城	t
+#</div>
+#<div class="supplementary-word" id="7.s" title="Lesson 7 Supplementary Words">
+世界	t
+# Not capitalized due to limitations of GB2312
+欧洲	t
+非洲	t
+大洋周	t
+南美洲	t
+#</div>
+#<div class="new-word" id="8" title="Lesson 8 New Words">
+请	t
+喝	t
+茶	t
+您	t
+进	t
+欢迎	t
+谢谢	t
+客气	t
+吸烟	t
+#</div>
+#<div class="proper-name" id="8.p" title="Lesson 8 Proper Names">
+王	t
+#</div>
+#<div class="supplementary-word" id="8.s" title="Lesson 8 Supplementary Words">
+咖啡	t
+啤酒	t
+牛奶	t
+先生	t
+太太	t
+#</div>
+#<div class="new-word" id="9" title="Lesson 9 New Words">
+贵姓	t
+请问	t
+问	t
+留学生	t
+姓	t
+叫	t
+外语	t
+学院	t
+学生	t
+学习	t
+学	t
+#</div>
+#<div class="proper-name" id="9.p" title="Lesson 9 Proper Names">
+丁云	t
+#</div>
+#<div class="supplementary-word" id="9.s" title="Lesson 9 Supplementary Words">
+小姐	t
+女士	t
+同志	t
+朝鲜	t
+英国	t
+#</div>
+#<div class="new-word" id="10" title="Lesson 10 New Words">
+零	t
+一	t
+二	t
+三	t
+四	t
+五	t
+在	t
+坐	t
+哪儿	t
+宿舍	t
+住	t
+# CEDICT: 多少	t
+多少	t
+号	t
+层	t
+#</div>
+#<div class="supplementary-word" id="10.s" title="Lesson 10 Supplementary Words">
+医院	t
+厕所	t
+这儿	t
+那儿	t
+#</div>
+#<div class="new-word" id="11" title="Lesson 11 New Words">
+还	t
+画报	t
+词典	t
+现在	t
+用	t
+一下儿	t
+再见	t
+六	t
+七	t
+八	t
+九	t
+十	t
+#</div>
+#<div class="supplementary-word" id="11.s" title="Lesson 11 Supplementary Words">
+杂志	t
+电话	t
+本子	t
+雨伞	t
+#</div>
+#<div class="new-word" id="12" title="Lesson 12 New Words">
+女	t
+先生	t
+认识	t
+英语	t
+法语	t
+常	t
+去	t
+他们	t
+#</div>
+#<div class="new-word" id="13" title="Lesson 13 New Words">
+名字	t
+喂	t
+啊	t
+商店	t
+买	t
+笔	t
+纸	t
+来	t
+介绍	t
+男	t
+对	t
+了	t
+和	t
+说	t
+#</div>
+#<div class="proper-name" id="13.p" title="Lesson 13 Proper Names">
+古波	t
+中国	t
+帕兰卡	t
+丁云	t
+#</div>
+#<div class="supplementary-word" id="13.s" title="Lesson 13 Supplementary Words">
+英国	t
+法国	t
+本子	t
+邮局	t
+邮票	t
+教授	t
+#</div>
+#<div class="new-word" id="14" title="Lesson 14 New Words">
+作	t
+工作	t
+想	t
+家	t
+有	t
+没	t
+妹妹	t
+姐姐	t
+银行	t
+爱人	t
+书店	t
+孩子	t
+给	t
+写	t
+信	t
+告诉	t
+#</div>
+#<div class="supplementary-word" id="14.s" title="Lesson 14 Supplementary Words">
+职员	t
+工程师	t
+经理	t
+公司	t
+#</div>
+#<div class="new-word" id="15" title="Lesson 15 New Words">
+中文	t
+系	t
+个	t
+几	t
+教	t
+语法	t
+汉字	t
+字	t
+还	t
+口语	t
+不敢当	t
+互相	t
+新	t
+阅览室	t
+杂志	t
+报	t
+本	t
+图书馆	t
+那儿	t
+#</div>
+#<div class="proper-name" id="15.p" title="Lesson 15 Proper Names">
+王	t
+#</div>
+#<div class="supplementary-word" id="15.s" title="Lesson 15 Supplementary Words">
+班	t
+教室	t
+实验室	t
+借	t
+生词	t
+#</div>
+#<div class="new-word" id="16" title="Lesson 16 New Words">
+条	t
+裙子	t
+两	t
+张	t
+票	t
+京剧	t
+晚上	t
+太	t
+从	t
+找	t
+这儿	t
+旧	t
+穿	t
+件	t
+衬衫	t
+绿	t
+大	t
+白	t
+#</div>
+#<div class="supplementary-word" id="16.s" title="Lesson 16 Supplementary Words">
+蓝	t
+上衣	t
+裤子	t
+大衣	t
+黑	t
+剧场	t
+座位	t
+#</div>
+#<div class="new-word" id="17" title="Lesson 17 New Words">
+点	t
+食堂	t
+差	t
+分	t
+刻	t
+上课	t
+课	t
+下课	t
+# CEDICT: 以後	t
+以后	t
+事儿	t
+回	t
+跟	t
+一起	t
+电影	t
+咖啡馆	t
+咖啡	t
+半	t
+啊	t
+等	t
+走	t
+路	t
+#</div>
+#<div class="supplementary-word" id="17.s" title="Lesson 17 Supplementary Words">
+上班	t
+下班	t
+电影院	t
+表	t
+钟	t
+以前	t
+#</div>
+#<div class="new-word" id="18" title="Lesson 18 New Words">
+天	t
+每	t
+起床	t
+起	t
+床	t
+上午	t
+吃	t
+饭	t
+多	t
+下午	t
+休息	t
+有时候	t
+# CEDICT: 时候	t
+时候	t
+问题	t
+睡觉	t
+#</div>
+#<div class="proper-name" id="18.p" title="Lesson 18 Proper Names">
+北京	t
+#</div>
+#<div class="new-word" id="19" title="Lesson 19 New Words">
+要	t
+服务员	t
+杯	t
+小姐	t
+喜欢	t
+花茶	t
+红茶	t
+红	t
+还是	t
+桔子水	t
+# CEDICT also lists: 橘子	t
+桔子	t
+水	t
+瓶	t
+啤酒	t
+听	t
+民歌	t
+古典	t
+音乐	t
+现代	t
+唱	t
+歌儿	t
+让	t
+别	t
+#</div>
+#<div class="supplementary-word" id="19.s" title="Lesson 19 Supplementary Words">
+枝	t
+苹果	t
+香蕉	t
+葡萄	t
+唱片	t
+绿茶	t
+#</div>
+#<div class="new-word" id="20" title="Lesson 20 New Words">
+月	t
+日	t
+生日	t
+今天	t
+班	t
+辅导	t
+号	t
+空儿	t
+今年	t
+岁	t
+祝贺	t
+舞会	t
+参加	t
+同学	t
+一定	t
+有意思	t
+星期	t
+星期日	t
+知道	t
+地址	t
+年	t
+#</div>
+#<div class="supplementary-word" id="20.s" title="Lesson 20 Supplementary Words">
+去年	t
+明年	t
+音乐会	t
+结婚	t
+# CEDICT: 对不起	t
+对不起	t
+约会	t
+没关系	t
+谈	t
+#</div>
+#<div class="new-word" id="21" title="Lesson 21 New Words">
+束	t
+花儿	t
+真	t
+好看	t
+祝	t
+送	t
+非常	t
+感谢	t
+高兴	t
+太太	t
+年轻	t
+多	t
+跳舞	t
+姑娘	t
+吧	t
+漂亮	t
+更	t
+象	t
+开	t
+门	t
+#</div>
+#<div class="proper-name" id="21.p" title="Lesson 21 Proper Names">
+布朗	t
+日本	t
+#</div>
+#<div class="supplementary-word" id="21.s" title="Lesson 21 Supplementary Words">
+辆	t
+干净	t
+新年	t
+岁数	t
+礼物	t
+照片	t
+儿子	t
+女儿	t
+#</div>
+#<div class="new-word" id="22" title="Lesson 22 New Words">
+# CEDICT: 後边	t
+后边	t
+小	t
+花园	t
+房子	t
+客厅	t
+旁边	t
+书房	t
+椅子	t
+少	t
+桌子	t
+上边	t
+总是	t
+总	t
+整理	t
+厨房	t
+对面	t
+帮助	t
+帮	t
+餐厅	t
+左边	t
+# CEDICT: li3 bian1 not listed, 里面	t
+里边	t
+房间	t
+卧室	t
+洗澡间	t
+洗澡	t
+# CEDICT: 怎麽样	t
+怎么样	t
+#</div>
+#<div class="supplementary-word" id="22.s" title="Lesson 22 Supplementary Words">
+# CEDICT: wai4 bian1 not listed, 外表	t
+外边	t
+# CEDICT: 下面	t
+下边	t
+前边	t
+右边	t
+中间	t
+窗户	t
+套	t
+把	t
+#</div>
+#<div class="new-word" id="23" title="Lesson 23 New Words">
+正在	t
+电视	t
+接	t
+电话	t
+没有	t
+复习	t
+课文	t
+新闻	t
+友好	t
+代表团	t
+代表	t
+参观	t
+工厂	t
+工人	t
+访问	t
+照片	t
+打电话	t
+明天	t
+城	t
+# CEDICT: wai4 bian1 not listed, 外表	t
+外边	t
+玩儿	t
+出发	t
+开车	t
+接人	t
+#</div>
+#<div class="supplementary-word" id="23.s" title="Lesson 23 Supplementary Words">
+总机	t
+分机	t
+占线	t
+打错了	t
+号码	t
+人民日报	t
+#</div>
+#<div class="new-word" id="24" title="Lesson 24 New Words">
+点心	t
+农村	t
+农民	t
+火车	t
+锻炼	t
+回答	t
+些	t
+难	t
+生词	t
+词	t
+念	t
+练习	t
+认真	t
+懂	t
+#</div>
+#<div class="proper-name" id="24.p" title="Lesson 24 Proper Names">
+# Not capitalized due to limitations of GB2312
+安娜	t
+王书文	t
+#</div>
+#<div class="new-word" id="25" title="Lesson 25 New Words">
+得	t
+晚	t
+停	t
+河	t
+游泳	t
+准备	t
+钓	t
+鱼	t
+汤	t
+位	t
+快	t
+哪里	t
+慢	t
+教练	t
+# CEDICT: 不错	t
+不错	t
+面包	t
+火腿	t
+一点儿	t
+奶酪	t
+再	t
+矿泉水	t
+#</div>
+#<div class="supplementary-word" id="25.s" title="Lesson 25 Supplementary Words">
+清楚	t
+流利	t
+整齐	t
+菜	t
+饺子	t
+鸡蛋	t
+牛奶	t
+比较	t
+#</div>
+#<div class="new-word" id="26" title="Lesson 26 New Words">
+研究	t
+文学	t
+早	t
+谈	t
+会	t
+当	t
+翻译	t
+能	t
+加深	t
+人民	t
+了解	t
+有名	t
+作家	t
+或者	t
+就	t
+应该	t
+俩	t
+可以	t
+理想	t
+可是	t
+容易	t
+有志者事竟成	t
+成语	t
+#</div>
+#<div class="proper-name" id="26.p" title="Lesson 26 Proper Names">
+鲁迅	t
+郭沫若	t
+#</div>
+#<div class="supplementary-word" id="26.s" title="Lesson 26 Supplementary Words">
+歌剧	t
+小说	t
+诗歌	t
+画	t
+画儿	t
+晚饭	t
+进来	t
+#</div>
+#<div class="new-word" id="27" title="Lesson 27 New Words">
+开始	t
+大使馆	t
+大使	t
+招待会	t
+酒	t
+尝	t
+茅台酒	t
+为	t
+健康	t
+干杯	t
+友谊	t
+葡萄酒	t
+葡萄	t
+菜	t
+筷子	t
+试	t
+文化	t
+参赞	t
+夫人	t
+又	t
+大家	t
+到	t
+楼	t
+#</div>
+#<div class="proper-name" id="27.p" title="Lesson 27 Proper Names">
+李	t
+#</div>
+#<div class="supplementary-word" id="27.s" title="Lesson 27 Supplementary Words">
+白兰地	t
+香槟酒	t
+武官	t
+一秘	t
+病	t
+小学生	t
+#</div>
+#<div class="new-word" id="28" title="Lesson 28 New Words">
+足球	t
+球	t
+赛	t
+昨天	t
+办	t
+签证	t
+午饭	t
+队	t
+赢	t
+输	t
+比	t
+裁判	t
+公平	t
+踢	t
+气人	t
+行李	t
+箱子	t
+顶	t
+帽子	t
+双	t
+冰鞋	t
+鞋	t
+冬天	t
+滑冰	t
+早饭	t
+#</div>
+#<div class="supplementary-word" id="28.s" title="Lesson 28 Supplementary Words">
+体育场	t
+公园	t
+乒乓球	t
+运动	t
+网球	t
+篮球	t
+排球	t
+滑雪	t
+#</div>
+#<div class="new-word" id="29" title="Lesson 29 New Words">
+飞机	t
+要	t
+起飞	t
+机场	t
+分别	t
+愿意	t
+离开	t
+见面	t
+见	t
+所以	t
+进步	t
+努力	t
+照相	t
+站	t
+紧	t
+上	t
+注意	t
+身体	t
+放心	t
+忘	t
+难过	t
+明年	t
+夏天	t
+秋天	t
+一路平安	t
+#</div>
+#<div class="supplementary-word" id="29.s" title="Lesson 29 Supplementary Words">
+汽车	t
+船	t
+叫	t
+送行	t
+旅行	t
+中国民航	t
+#</div>
+#<div class="new-word" id="30" title="Lesson 30 New Words">
+笑	t
+心	t
+送	t
+女儿	t
+去年	t
+国家	t
+东西	t
+哭	t
+离	t
+远	t
+热情	t
+过	t
+自己	t
+#</div>
+
