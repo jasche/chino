@@ -4,11 +4,13 @@ import com.chino.android.util.SystemUiHider;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
+import android.widget.TextView;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -175,6 +177,8 @@ public class FullscreenActivity extends Activity {
     		String sharedText = intent.getStringExtra(Intent.EXTRA_TEXT);
     		if (sharedText != null) {
         	// Update UI to reflect text being shared
+    			TextView textView =  (TextView) findViewById(R.id.editText1);
+    			textView.setText(sharedText);
     		}
 	}
 }
