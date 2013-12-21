@@ -176,9 +176,9 @@ public class FullscreenActivity extends Activity {
 	void handleSendText(Intent intent) {
     		String sharedText = intent.getStringExtra(Intent.EXTRA_TEXT);
     		if (sharedText != null) {
-        	// Update UI to reflect text being shared
     			TextView textView =  (TextView) findViewById(R.id.editText1);
     			textView.setText(sharedText);
     		}
 	}
+	
 }
