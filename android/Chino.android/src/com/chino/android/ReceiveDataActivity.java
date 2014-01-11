@@ -12,7 +12,8 @@ extends  Activity
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		
+		setContentView(R.layout.activity_fullscreen);
+
 		// Get intent, action and MIME type
 		Intent intent = getIntent();
 		String action = intent.getAction();
