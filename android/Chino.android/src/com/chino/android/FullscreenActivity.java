@@ -17,6 +17,7 @@ import android.widget.TextView;
  * status bar and navigation/system bar) with user interaction.
  * 
  * @see SystemUiHider
+ * Test
  */
 public class FullscreenActivity extends Activity {
 	/**
@@ -120,6 +121,16 @@ public class FullscreenActivity extends Activity {
 				mDelayHideTouchListener);
 				
 
+		   // Get intent, action and MIME type
+    		Intent intent = getIntent();
+    		String action = intent.getAction();
+    		String type = intent.getType();
+
+    		if (Intent.ACTION_SEND.equals(action) && type != null) {
+        		if ("text/plain".equals(type)) {
+        			 handleSendText(intent); // Handle text being sent
+        		}
+    		}
 	}
 
 	@Override
@@ -164,6 +175,11 @@ public class FullscreenActivity extends Activity {
 		mHideHandler.postDelayed(mHideRunnable, delayMillis);
 	}
 	
-	
-	
+	void handleSendText(Intent intent) {
+    		String sharedText = intent.getStringExtra(Intent.EXTRA_TEXT);
+    		if (sharedText != null) {
+    			TextView textView =  (TextView) findViewById(R.id.editText1);
+    			textView.setText(sharedText);
+    		}
+	}
 }
