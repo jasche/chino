@@ -17,6 +17,7 @@ import android.widget.TextView;
  * status bar and navigation/system bar) with user interaction.
  * 
  * @see SystemUiHider
+ * Test
  */
 public class FullscreenActivity extends Activity {
 	/**
@@ -180,4 +181,5 @@ public class FullscreenActivity extends Activity {
     			textView.setText(sharedText);
     		}
 	}
+	
 }
