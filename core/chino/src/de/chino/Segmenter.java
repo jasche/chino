@@ -5,6 +5,13 @@ import java.util.*;
 
 public class Segmenter
 {
+    private DictionaryData dictdata;
+    private String debugencoding;
+    private int characterForm;
+    private boolean debug;
+    public static final int TRAD = 0;
+    public static final int SIMP = 1;
+    public static final int BOTH = 2;
 
     public Segmenter(DictionaryData dictionarydata)
     {
@@ -355,11 +362,4 @@ public class Segmenter
 
     }
 
-    private DictionaryData dictdata;
-    private String debugencoding;
-    private int characterForm;
-    private boolean debug;
-    public static final int TRAD = 0;
-    public static final int SIMP = 1;
-    public static final int BOTH = 2;
 }
