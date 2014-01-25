@@ -14,8 +14,8 @@ public class TextTest {
 	
 	private File prefFile = new File(ClassLoader.getSystemResource("Chinese2_Settings.csv").getFile());
 	private Language language = new Language(prefFile);
-	private File file = new File(ClassLoader.getSystemResource("test.txt").getFile()); 
-	private File htmlFile = new File(ClassLoader.getSystemResource("test.txt").getFile().replaceAll(".txt", ".html")); 
+	private File file = new File(ClassLoader.getSystemResource("chinese.txt").getFile()); 
+	private File htmlFile = new File(ClassLoader.getSystemResource("chinese.txt").getFile().replaceAll(".txt", ".html")); 
 	
 	@Test
 	public void testTextFileLanguage() {
@@ -27,7 +27,7 @@ public class TextTest {
 
 	@Test
 	public void testTextString() {
-		Text fixture = new Text(ClassLoader.getSystemResource("test.txt").getFile(), language);
+		Text fixture = new Text(ClassLoader.getSystemResource("chinese.txt").getFile(), language);
 
 		assertNotNull(fixture);
 	}
@@ -91,6 +91,9 @@ public class TextTest {
 	public void testGetTextItems() {
 		Text fixture = new Text(file, language);
 		assertNotNull(fixture.getTextItems());
+		assertEquals(3, fixture.getTextItems().size());
+		assertEquals("一天", fixture.getTextItems().get(0).getTextItemValue());
+
 	}
    
 	@Test
@@ -102,13 +105,13 @@ public class TextTest {
 	@Test
 	public void testGetTextSentence() {
 		Text fixture = new Text(file, language);
-		assertNotNull(fixture.getTextSentence(null));
+		assertNotNull(fixture.getTextSentence(new TextItem("foo", "bar")));
 	}
 
 	@Test
 	public void testGetUnlearnedWordCount() {
 		Text fixture = new Text(file, language);
-		assertEquals(44, fixture.getUnlearnedWordCount());
+		assertEquals(3, fixture.getUnlearnedWordCount());
 	}
 
 	@Test

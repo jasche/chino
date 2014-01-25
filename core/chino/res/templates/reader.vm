@@ -1,0 +1,7 @@
+<HTML>
+<BODY>
+#foreach( $word in $text.textItems )
+<cspan style="background-color:red">$word.textItemValue</cspan>
+#end
+</BODY>
+</HTML>

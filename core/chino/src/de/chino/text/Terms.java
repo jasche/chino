@@ -355,19 +355,19 @@ public class Terms {
 								intStatus = 1;
 							}
 						}
-						addTerm(Term.INSTANCE.create(cols[0].trim(), cols[1].trim(),
+						addTerm(TermFactory.INSTANCE.create(cols[0].trim(), cols[1].trim(),
 								cols[2].trim(), cols[3].trim(), intStatus));
 					} else if (cnt == 4) {
-						addTerm(Term.INSTANCE.create(cols[0].trim(), cols[1].trim(),
+						addTerm(TermFactory.INSTANCE.create(cols[0].trim(), cols[1].trim(),
 								cols[2].trim(), cols[3].trim(), 1));
 					} else if (cnt == 3) {
-						addTerm(Term.INSTANCE.create(cols[0].trim(), cols[1].trim(),
+						addTerm(TermFactory.INSTANCE.create(cols[0].trim(), cols[1].trim(),
 								cols[2].trim(), "", 1));
 					} else if (cnt == 2) {
-						addTerm(Term.INSTANCE.create(cols[0].trim(), cols[1].trim(), "",
+						addTerm(TermFactory.INSTANCE.create(cols[0].trim(), cols[1].trim(), "",
 								"", 1));
 					} else { // cnt == 1
-						addTerm(Term.INSTANCE.create(cols[0].trim(), "?", "", "", 1));
+						addTerm(TermFactory.INSTANCE.create(cols[0].trim(), "?", "", "", 1));
 					}
 				}
 			}
